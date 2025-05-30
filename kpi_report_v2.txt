@@ -1,0 +1,8 @@
+KPI Report – Enhanced Version
+----------------------------------
+Average Watch Time       : 2680.00 minutes
+Like Rate                : 0.21
+Conversion Rate          : 0.13 (likes per min watched)
+Retention Rate           : 0.54
+Most Popular Video       : "Build a Website" (2100 views)
+Highest Engagement Video : "Data Science 101" (Score: 1770.00)
