@@ -28,7 +28,8 @@ Run the script `matplotlib_dashboard.py` to generate the bar chart image.
 
 An interactive Streamlit dashboard allows dynamic exploration of video KPIs using sliders and filters. It showcases an interactive mini ETL pipeline with real-time metrics and charts.
 
-**Live Demo:** [Click to View the App](https://your-username.streamlit.app/)
+**Live Demo:** [Click to View the App](https://amarachi-flora-engagement-analysis-app-o64kpf.streamlit.app/)
+
 
 ### Key Features
 - Real-time KPI display using `st.metric()`
