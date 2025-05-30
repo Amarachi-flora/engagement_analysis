@@ -18,7 +18,8 @@ This project extracts key YouTube video metrics such as total views, likes, comm
 Run the script `matplotlib_dashboard.py` to generate the bar chart image.
 
 ### Bar Chart Preview
-<img src="./day17-matplotlib-version/bar_chart.png" alt="Bar Chart" width="75%" />
+<img src="./day17-matplotlib-version/engagement_scores.png" alt="Engagement Scores Bar Chart" width="75%" />
+
 
 ---
 
