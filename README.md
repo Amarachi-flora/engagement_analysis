@@ -5,25 +5,29 @@ This repository contains two Python projects analyzing YouTube video performance
 ---
 
 ## Version 1 – Matplotlib (Static Dashboard)
+
 **Folder:** day17-matplotlib-version
 
-This project extracts key YouTube video metrics such as total views, likes, comments, and average watch time. It generates a **static bar chart** visualizing video performance to help understand engagement at a glance.
+ This project extracts key YouTube video metrics such as total views, likes, comments, and average watch time. 
+ It generates a **static bar chart** visualizing video performance to help understand engagement at a glance.
+ 
+ ### Key Features- 
+ - Extracts and calculates KPIs including average watch time and total engagement.
+ - Creates static visualizations using Matplotlib.
+ - Provides a simple, clear overview of video performance.
+ 
+ ### Usage
+ 
+ Run the script `matplotlib_dashboard.py` to generate the bar chart image.
+ 
+  ### Bar Chart Preview  
+  
+  <img src="image.png" alt="Engagement Scores Bar Chart" width="75%" />
 
-### Key Features
-- Extracts and calculates KPIs including average watch time and total engagement.
-- Creates static visualizations using Matplotlib.
-- Provides a simple, clear overview of video performance.
-
-### Usage
-Run the script `matplotlib_dashboard.py` to generate the bar chart image.
-
-### Bar Chart Preview
-<img src="./day17-matplotlib-version/engagement_scores.png" alt="Engagement Scores Bar Chart" width="75%" />
-
-
----
-
+   
+  
 ## Version 2 – Streamlit (Interactive Dashboard)
+
 **Folder:** day17-streamlit-version
 
 An interactive Streamlit dashboard allows dynamic exploration of video KPIs using sliders and filters. It showcases an interactive mini ETL pipeline with real-time metrics and charts.
